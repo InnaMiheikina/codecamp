@@ -1,3 +1,3 @@
-var a = 7;
-var a = b;
-var c = b;
+// inna
+/* inna my
+name  */
