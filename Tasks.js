@@ -1,6 +1,2 @@
-// Налаштування
-var a;
-a = 7;
-var b;
-// Змініть код лише під цим рядком
-b = a;
+var myFirstName = "inna";
+var myLastName = "igorevna";
