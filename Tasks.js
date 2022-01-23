@@ -1,5 +1,5 @@
-let myVar = 87;
+let myVar = 11;
 
 // Only change code below this line
-myVar = myVar++;
-myVar = 88;
+myVar = myVar--;
+let myVar = 10;
