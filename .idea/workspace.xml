@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5f680ca-d8d7-47c8-b217-113353e715df" name="Default Changelist" comment="15">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f5f680ca-d8d7-47c8-b217-113353e715df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Tasks.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
       <workItem from="1642792450594" duration="3126000" />
       <workItem from="1642832488479" duration="546000" />
       <workItem from="1642839999537" duration="444000" />
-      <workItem from="1642866304416" duration="960000" />
+      <workItem from="1642866304416" duration="1312000" />
     </task>
     <task id="LOCAL-00001" summary="3">
       <created>1642415296708</created>
@@ -173,7 +173,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642866321532</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="15">
+      <created>1642921064284</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1642921064284</updated>
+    </task>
+    <task id="LOCAL-00020" summary="16">
+      <created>1642921317191</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1642921317191</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +209,7 @@
     <MESSAGE value="12" />
     <MESSAGE value="13" />
     <MESSAGE value="15" />
-    <option name="LAST_COMMIT_MESSAGE" value="15" />
+    <MESSAGE value="16" />
+    <option name="LAST_COMMIT_MESSAGE" value="16" />
   </component>
 </project>
