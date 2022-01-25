@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f680ca-d8d7-47c8-b217-113353e715df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tasks.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../codewars" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -48,14 +49,7 @@
       <workItem from="1642866304416" duration="6145000" />
       <workItem from="1642968499420" duration="1167000" />
       <workItem from="1643003987120" duration="8000" />
-      <workItem from="1643010611585" duration="7749000" />
-    </task>
-    <task id="LOCAL-00013" summary="11">
-      <created>1642795558540</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1642795558540</updated>
+      <workItem from="1643010611585" duration="8603000" />
     </task>
     <task id="LOCAL-00014" summary="5">
       <created>1642832514572</created>
@@ -393,14 +387,20 @@
       <option name="project" value="LOCAL" />
       <updated>1643027825533</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="56">
+      <created>1643028333685</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1643028333685</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="33" />
     <MESSAGE value="34" />
     <MESSAGE value="35" />
     <MESSAGE value="36" />
@@ -425,6 +425,7 @@
     <MESSAGE value="53" />
     <MESSAGE value="54" />
     <MESSAGE value="55" />
-    <option name="LAST_COMMIT_MESSAGE" value="55" />
+    <MESSAGE value="56" />
+    <option name="LAST_COMMIT_MESSAGE" value="56" />
   </component>
 </project>
