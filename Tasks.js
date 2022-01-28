@@ -1,13 +1,9 @@
-function multiplyAll(arr) {
-    let product = 1;
-    // Only change code below this line
-    for (var i = 0; i < arr.length; i++) {
-        for (var x = 0; x < arr[i].length; x++) {
-            product *= arr[i][x];
-        }
-    }
-    // Only change code above this line
-    return product;
-}
+// Setup
+const myArray = [];
+let i = 10;
+do {
+// Only change code below this line
 
-multiplyAll([[1, 2], [3, 4], [5, 6, 7]]);
+    myArray.push(i);
+    i++;
+} while (i < 5);
