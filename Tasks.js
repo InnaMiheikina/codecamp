@@ -1,11 +1,7 @@
-
 // Setup
 const myArray = [];
-let i =0;
-while(i <= 5) {
+for(let i = 1; i < 6; i++) {
     myArray.push(i);
-    i++;
-}
-myArray.reverse();
-console.log(myArray);
+};
+console.log(myArray)
 // Only change code below this line

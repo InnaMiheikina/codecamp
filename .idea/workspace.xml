@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5f680ca-d8d7-47c8-b217-113353e715df" name="Default Changelist" comment="" />
+    <list default="true" id="f5f680ca-d8d7-47c8-b217-113353e715df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Tasks.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +22,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../codewars" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -51,13 +53,7 @@
       <workItem from="1643175179874" duration="5619000" />
       <workItem from="1643290966318" duration="750000" />
       <workItem from="1643302471728" duration="3814000" />
-    </task>
-    <task id="LOCAL-00047" summary="41">
-      <created>1643011447919</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1643011447919</updated>
+      <workItem from="1643357538186" duration="306000" />
     </task>
     <task id="LOCAL-00048" summary="42">
       <created>1643011666159</created>
@@ -395,14 +391,20 @@
       <option name="project" value="LOCAL" />
       <updated>1643308720491</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="88">
+      <created>1643357571305</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1643357571305</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="64" />
     <MESSAGE value="65" />
     <MESSAGE value="66" />
     <MESSAGE value="67" />
@@ -427,6 +429,7 @@
     <MESSAGE value="85" />
     <MESSAGE value="86" />
     <MESSAGE value="87" />
-    <option name="LAST_COMMIT_MESSAGE" value="87" />
+    <MESSAGE value="88" />
+    <option name="LAST_COMMIT_MESSAGE" value="88" />
   </component>
 </project>
