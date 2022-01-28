@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5f680ca-d8d7-47c8-b217-113353e715df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasks.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks.js" afterDir="false" />
-    </list>
+    <list default="true" id="f5f680ca-d8d7-47c8-b217-113353e715df" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,14 +51,7 @@
       <workItem from="1643175179874" duration="5619000" />
       <workItem from="1643290966318" duration="750000" />
       <workItem from="1643302471728" duration="3814000" />
-      <workItem from="1643357538186" duration="3486000" />
-    </task>
-    <task id="LOCAL-00055" summary="49">
-      <created>1643017166149</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1643017166149</updated>
+      <workItem from="1643357538186" duration="3795000" />
     </task>
     <task id="LOCAL-00056" summary="50">
       <created>1643017501577</created>
@@ -399,14 +389,20 @@
       <option name="project" value="LOCAL" />
       <updated>1643369713760</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="96">
+      <created>1643370860739</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1643370860739</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="71a" />
     <MESSAGE value="72" />
     <MESSAGE value="73" />
     <MESSAGE value="74" />
@@ -431,14 +427,15 @@
     <MESSAGE value="93" />
     <MESSAGE value="94" />
     <MESSAGE value="95" />
-    <option name="LAST_COMMIT_MESSAGE" value="95" />
+    <MESSAGE value="96" />
+    <option name="LAST_COMMIT_MESSAGE" value="96" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/Tasks.js</url>
-          <line>15</line>
+          <line>45</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
