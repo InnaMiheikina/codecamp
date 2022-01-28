@@ -1,9 +1,7 @@
-// Setup
-const myArray = [];
-let i = 10;
-do {
-// Only change code below this line
-
-    myArray.push(i);
-    i++;
-} while (i < 5);
+function sum(arr, n) {
+    if (--n<0) {
+        return 0;
+    } else {
+        return sum(arr, n) + arr[n];
+    }
+}
