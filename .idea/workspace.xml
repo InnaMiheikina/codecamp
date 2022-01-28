@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f680ca-d8d7-47c8-b217-113353e715df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tasks.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,14 +54,7 @@
       <workItem from="1643175179874" duration="5619000" />
       <workItem from="1643290966318" duration="750000" />
       <workItem from="1643302471728" duration="3814000" />
-      <workItem from="1643357538186" duration="2638000" />
-    </task>
-    <task id="LOCAL-00054" summary="48">
-      <created>1643016457896</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1643016457896</updated>
+      <workItem from="1643357538186" duration="3486000" />
     </task>
     <task id="LOCAL-00055" summary="49">
       <created>1643017166149</created>
@@ -398,14 +392,20 @@
       <option name="project" value="LOCAL" />
       <updated>1643364106328</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="95">
+      <created>1643369713760</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1643369713760</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="71" />
     <MESSAGE value="71a" />
     <MESSAGE value="72" />
     <MESSAGE value="73" />
@@ -430,6 +430,19 @@
     <MESSAGE value="92" />
     <MESSAGE value="93" />
     <MESSAGE value="94" />
-    <option name="LAST_COMMIT_MESSAGE" value="94" />
+    <MESSAGE value="95" />
+    <option name="LAST_COMMIT_MESSAGE" value="95" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Tasks.js</url>
+          <line>15</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
