@@ -1,5 +1,9 @@
-// Only change code below this line
-function countdown(n){
-    return n < 1 ? [] : [n].concat(countdown(n - 1));
-}
-// Only change code above this line
+function rangeOfNumbers(startNum, endNum) {
+    if (startNum - endNum == 0) {
+        return [startNum];
+    } else if (startNum <= endNum) {
+        var numbers = rangeOfNumbers(startNum, endNum - 1);
+        numbers.push(endNum);
+        return numbers;
+    }
+};
