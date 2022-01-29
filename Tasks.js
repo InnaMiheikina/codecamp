@@ -1,7 +1,10 @@
-const arr1 = ['JAN', 'FEB', 'MAR', 'APR', 'MAY'];
-let arr2;
-(function() {
-    "use strict";
-    arr2 = [...arr1]; // change this line
-})();
-console.log(arr2);
+const HIGH_TEMPERATURES = {
+    yesterday: 75,
+    today: 77,
+    tomorrow: 80
+};
+
+// change code below this line
+const {today, tomorrow} = HIGH_TEMPERATURES;
+
+// change code above this line
