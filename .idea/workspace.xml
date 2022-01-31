@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5f680ca-d8d7-47c8-b217-113353e715df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f5f680ca-d8d7-47c8-b217-113353e715df" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,14 +57,7 @@
       <workItem from="1643486675435" duration="10000" />
       <workItem from="1643489352956" duration="451000" />
       <workItem from="1643611390957" duration="40000" />
-      <workItem from="1643626026432" duration="3033000" />
-    </task>
-    <task id="LOCAL-00086" summary="78">
-      <created>1643190136704</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1643190136704</updated>
+      <workItem from="1643626026432" duration="3757000" />
     </task>
     <task id="LOCAL-00087" summary="79">
       <created>1643290982554</created>
@@ -404,14 +395,20 @@
       <option name="project" value="LOCAL" />
       <updated>1643633941545</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="git commit --amend">
+      <created>1643634793412</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1643634793412</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="101" />
     <MESSAGE value="102" />
     <MESSAGE value="103" />
     <MESSAGE value="103A" />
@@ -436,6 +433,7 @@
     <MESSAGE value="11b" />
     <MESSAGE value="12b" />
     <MESSAGE value="let a = 8, b = 6;" />
-    <option name="LAST_COMMIT_MESSAGE" value="let a = 8, b = 6;" />
+    <MESSAGE value="git commit --amend" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit --amend" />
   </component>
 </project>
