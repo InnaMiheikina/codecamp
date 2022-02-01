@@ -1,10 +1,18 @@
 // Only change code below this line
-class Vegetable {
-    constructor (name) {
-        this.name = name;
+class Thermostat{
+    constructor(temp){
+        this._temp = 5/9 * (temp - 32);
+    }
+    get temperature(){
+        return this._temp;
+    }
+    set temperature(updatedTemp){
+        this._temp = updatedTemp; //will still be in celsius
     }
 }
 // Only change code above this line
 
-const carrot = new Vegetable('carrot');
-console.log(carrot.name); // Should display 'carrot'
+const thermos = new Thermostat(76); // Setting in Fahrenheit scale
+let temp = thermos.temperature; // 24.44 in Celsius
+thermos.temperature = 26;
+temp = thermos.temperature; // 26 in Celsius
