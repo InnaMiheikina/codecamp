@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f680ca-d8d7-47c8-b217-113353e715df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tasks.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,21 +67,7 @@
       <workItem from="1643647858938" duration="23000" />
       <workItem from="1643647884661" duration="72000" />
       <workItem from="1643704980357" duration="1395000" />
-      <workItem from="1643712263544" duration="3257000" />
-    </task>
-    <task id="LOCAL-00118" summary="108">
-      <created>1643475644786</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1643475644786</updated>
-    </task>
-    <task id="LOCAL-00119" summary="109">
-      <created>1643475744104</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1643475744104</updated>
+      <workItem from="1643712263544" duration="4005000" />
     </task>
     <task id="LOCAL-00120" summary="110">
       <created>1643478580210</created>
@@ -411,15 +398,27 @@
       <option name="project" value="LOCAL" />
       <updated>1643716768548</updated>
     </task>
-    <option name="localTasksCounter" value="167" />
+    <task id="LOCAL-00167" summary="17s">
+      <created>1643717527712</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1643717527712</updated>
+    </task>
+    <task id="LOCAL-00168" summary="17s(2)">
+      <created>1643717823888</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1643717823888</updated>
+    </task>
+    <option name="localTasksCounter" value="169" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3" />
-    <MESSAGE value="4" />
     <MESSAGE value="5ф" />
     <MESSAGE value="7" />
     <MESSAGE value="8" />
@@ -443,6 +442,8 @@
     <MESSAGE value="14s" />
     <MESSAGE value="15s" />
     <MESSAGE value="16s" />
-    <option name="LAST_COMMIT_MESSAGE" value="16s" />
+    <MESSAGE value="17s" />
+    <MESSAGE value="17s(2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="17s(2)" />
   </component>
 </project>
