@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5f680ca-d8d7-47c8-b217-113353e715df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Tasks.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks.js" afterDir="false" />
-    </list>
+    <list default="true" id="f5f680ca-d8d7-47c8-b217-113353e715df" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,56 +63,7 @@
       <workItem from="1643647833169" duration="23000" />
       <workItem from="1643647858938" duration="23000" />
       <workItem from="1643647884661" duration="72000" />
-      <workItem from="1643704980357" duration="323000" />
-    </task>
-    <task id="LOCAL-00089" summary="81">
-      <created>1643291602390</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1643291602390</updated>
-    </task>
-    <task id="LOCAL-00090" summary="82">
-      <created>1643302488693</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1643302488709</updated>
-    </task>
-    <task id="LOCAL-00091" summary="83">
-      <created>1643303457269</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1643303457269</updated>
-    </task>
-    <task id="LOCAL-00092" summary="84">
-      <created>1643303895084</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1643303895084</updated>
-    </task>
-    <task id="LOCAL-00093" summary="85">
-      <created>1643304839253</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1643304839253</updated>
-    </task>
-    <task id="LOCAL-00094" summary="86">
-      <created>1643305626765</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1643305626766</updated>
-    </task>
-    <task id="LOCAL-00095" summary="87">
-      <created>1643308720491</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1643308720491</updated>
+      <workItem from="1643704980357" duration="632000" />
     </task>
     <task id="LOCAL-00096" summary="88">
       <created>1643357571305</created>
@@ -410,20 +359,62 @@
       <option name="project" value="LOCAL" />
       <updated>1643705173675</updated>
     </task>
-    <option name="localTasksCounter" value="138" />
+    <task id="LOCAL-00138" summary="2">
+      <created>1643705312942</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1643705312942</updated>
+    </task>
+    <task id="LOCAL-00139" summary="3">
+      <created>1643705395377</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1643705395377</updated>
+    </task>
+    <task id="LOCAL-00140" summary="4">
+      <created>1643705457135</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1643705457135</updated>
+    </task>
+    <task id="LOCAL-00141" summary="5">
+      <created>1643705509145</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1643705509145</updated>
+    </task>
+    <task id="LOCAL-00142" summary="5ф">
+      <created>1643705542685</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1643705542685</updated>
+    </task>
+    <task id="LOCAL-00143" summary="7">
+      <created>1643705577043</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1643705577043</updated>
+    </task>
+    <task id="LOCAL-00144" summary="8">
+      <created>1643705606619</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1643705606619</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="103" />
-    <MESSAGE value="103A" />
-    <MESSAGE value="104" />
-    <MESSAGE value="105" />
-    <MESSAGE value="106" />
-    <MESSAGE value="107" />
-    <MESSAGE value="108" />
     <MESSAGE value="109" />
     <MESSAGE value="110" />
     <MESSAGE value="111" />
@@ -442,6 +433,13 @@
     <MESSAGE value="let a = 8, b = 6;" />
     <MESSAGE value="git commit --amend" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="2" />
+    <MESSAGE value="3" />
+    <MESSAGE value="4" />
+    <MESSAGE value="5" />
+    <MESSAGE value="5ф" />
+    <MESSAGE value="7" />
+    <MESSAGE value="8" />
+    <option name="LAST_COMMIT_MESSAGE" value="8" />
   </component>
 </project>

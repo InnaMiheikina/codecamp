@@ -1,3 +1,9 @@
-var a = 5;
-var b = 10;
-var c = "I am a";
+// Оголошення змінної
+var studlyCapVar;
+var properCamelCase;
+var titleCaseOver;
+
+// Призначення змінної
+studlyCapVar = 10;
+properCamelCase = "A String";
+titleCaseOver = 9000;
