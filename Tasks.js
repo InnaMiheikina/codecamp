@@ -1,3 +1,1 @@
-var myVar = 0;
-a = myVar;
-var a = 9;
+const sum = 10 + 10;
