@@ -1,2 +1,4 @@
-let myVar = 87;
-let myVar = 11
+myVar = myVar++;
+myVar = 88;
+myVar = myVar--;
+let myVar = 10;
