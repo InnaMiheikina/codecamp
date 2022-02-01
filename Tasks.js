@@ -1,7 +1,9 @@
-const createPerson = (name, age, gender) => ({
-    // Only change code below this line
-    name,
-    age,
-    gender
-});
-// Only change code above this line
+const bicycle = {
+    gear: 2,
+    setGear(newGear){ //by removing the "function"
+        "use strict";
+        this.gear = newGear;
+    }
+};
+bicycle.setGear(3);
+console.log(bicycle.gear);
