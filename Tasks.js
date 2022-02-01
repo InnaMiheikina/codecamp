@@ -1,4 +1,3 @@
-const FCC = "freeCodeCamp"; // Змініть цей рядок
-let fact = "is cool!"; // Змініть цей рядок
-fact = "is awesome!";
-console.log(FCC, fact); // Змініть цей рядок
+var myVar = 0;
+a = myVar;
+var a = 9;
