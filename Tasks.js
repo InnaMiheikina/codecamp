@@ -1,4 +1,1 @@
-// Only change code above this line
-import * as stringFunctions from './string_functions.js';
-stringFunctions.uppercaseString("hello");
-stringFunctions.lowercaseString("WORLD!");
+const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; // Change this line
