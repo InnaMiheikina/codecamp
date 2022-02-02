@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5f680ca-d8d7-47c8-b217-113353e715df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Tasks.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks.js" afterDir="false" />
-    </list>
+    <list default="true" id="f5f680ca-d8d7-47c8-b217-113353e715df" name="Default Changelist" comment="66a" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +20,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../codewars" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -69,28 +67,7 @@
       <workItem from="1643712263544" duration="5855000" />
       <workItem from="1643785167283" duration="151000" />
       <workItem from="1643785323181" duration="880000" />
-      <workItem from="1643786212333" duration="607000" />
-    </task>
-    <task id="LOCAL-00167" summary="17s">
-      <created>1643717527712</created>
-      <option name="number" value="00167" />
-      <option name="presentableId" value="LOCAL-00167" />
-      <option name="project" value="LOCAL" />
-      <updated>1643717527712</updated>
-    </task>
-    <task id="LOCAL-00168" summary="17s(2)">
-      <created>1643717823888</created>
-      <option name="number" value="00168" />
-      <option name="presentableId" value="LOCAL-00168" />
-      <option name="project" value="LOCAL" />
-      <updated>1643717823888</updated>
-    </task>
-    <task id="LOCAL-00169" summary="18">
-      <created>1643718281672</created>
-      <option name="number" value="00169" />
-      <option name="presentableId" value="LOCAL-00169" />
-      <option name="project" value="LOCAL" />
-      <updated>1643718281672</updated>
+      <workItem from="1643786212333" duration="877000" />
     </task>
     <task id="LOCAL-00170" summary="19">
       <created>1643719385424</created>
@@ -414,16 +391,34 @@
       <option name="project" value="LOCAL" />
       <updated>1643786804504</updated>
     </task>
-    <option name="localTasksCounter" value="216" />
+    <task id="LOCAL-00216" summary="64a">
+      <created>1643786831183</created>
+      <option name="number" value="00216" />
+      <option name="presentableId" value="LOCAL-00216" />
+      <option name="project" value="LOCAL" />
+      <updated>1643786831183</updated>
+    </task>
+    <task id="LOCAL-00217" summary="65a">
+      <created>1643786860389</created>
+      <option name="number" value="00217" />
+      <option name="presentableId" value="LOCAL-00217" />
+      <option name="project" value="LOCAL" />
+      <updated>1643786860389</updated>
+    </task>
+    <task id="LOCAL-00218" summary="66a">
+      <created>1643786906865</created>
+      <option name="number" value="00218" />
+      <option name="presentableId" value="LOCAL-00218" />
+      <option name="project" value="LOCAL" />
+      <updated>1643786906865</updated>
+    </task>
+    <option name="localTasksCounter" value="219" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="40" />
-    <MESSAGE value="41" />
-    <MESSAGE value="42a" />
     <MESSAGE value="43a" />
     <MESSAGE value="44a" />
     <MESSAGE value="45a" />
@@ -446,6 +441,9 @@
     <MESSAGE value="61a" />
     <MESSAGE value="62a" />
     <MESSAGE value="63a" />
-    <option name="LAST_COMMIT_MESSAGE" value="63a" />
+    <MESSAGE value="64a" />
+    <MESSAGE value="65a" />
+    <MESSAGE value="66a" />
+    <option name="LAST_COMMIT_MESSAGE" value="66a" />
   </component>
 </project>
