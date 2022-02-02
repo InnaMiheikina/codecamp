@@ -1,2 +1,2 @@
-const myArray = [50, 60, 70];
-const myData = myArray[0];
+const remainder = 11 % 3;
+2;
