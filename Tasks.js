@@ -1,16 +1,8 @@
 // Setup
-let sum = 0;
+let processed = processArg(7);
 
-function addThree() {
-    sum = sum + 3;
+function processArg(num) {
+    return (num + 3) / 5;
 }
-
+processArg();
 // Only change code below this line
-function addFive() {
-    sum = sum + 5;
-}
-
-// Only change code above this line
-
-addThree();
-addFive();
