@@ -65,20 +65,7 @@
       <workItem from="1643647884661" duration="72000" />
       <workItem from="1643704980357" duration="1395000" />
       <workItem from="1643712263544" duration="5855000" />
-    </task>
-    <task id="LOCAL-00126" summary="5b">
-      <created>1643481876837</created>
-      <option name="number" value="00126" />
-      <option name="presentableId" value="LOCAL-00126" />
-      <option name="project" value="LOCAL" />
-      <updated>1643481876837</updated>
-    </task>
-    <task id="LOCAL-00127" summary="6b">
-      <created>1643482451597</created>
-      <option name="number" value="00127" />
-      <option name="presentableId" value="LOCAL-00127" />
-      <option name="project" value="LOCAL" />
-      <updated>1643482451597</updated>
+      <workItem from="1643785167283" duration="151000" />
     </task>
     <task id="LOCAL-00128" summary="7b">
       <created>1643483719577</created>
@@ -409,15 +396,27 @@
       <option name="project" value="LOCAL" />
       <updated>1643723048410</updated>
     </task>
-    <option name="localTasksCounter" value="175" />
+    <task id="LOCAL-00175" summary="25a">
+      <created>1643785244417</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1643785244417</updated>
+    </task>
+    <task id="LOCAL-00176" summary="26a">
+      <created>1643785287410</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1643785287410</updated>
+    </task>
+    <option name="localTasksCounter" value="177" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="7" />
-    <MESSAGE value="8" />
     <MESSAGE value="9" />
     <MESSAGE value="10" />
     <MESSAGE value="11" />
@@ -441,6 +440,8 @@
     <MESSAGE value="21" />
     <MESSAGE value="22" />
     <MESSAGE value="23s" />
-    <option name="LAST_COMMIT_MESSAGE" value="23s" />
+    <MESSAGE value="25a" />
+    <MESSAGE value="26a" />
+    <option name="LAST_COMMIT_MESSAGE" value="26a" />
   </component>
 </project>
